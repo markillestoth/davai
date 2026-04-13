@@ -1,0 +1,86 @@
+[
+  { "id": "word_101", "russian": "доброе утро", "english": "good morning" },
+  { "id": "word_102", "russian": "добрый день", "english": "good afternoon" },
+  { "id": "word_103", "russian": "добрый вечер", "english": "good evening" },
+  { "id": "word_104", "russian": "спокойной ночи", "english": "good night" },
+
+  { "id": "word_105", "russian": "как тебя зовут?", "english": "what is your name?" },
+  { "id": "word_106", "russian": "меня зовут", "english": "my name is" },
+
+  { "id": "word_107", "russian": "до свидания", "english": "goodbye" },
+  { "id": "word_108", "russian": "до встречи", "english": "see you later" },
+  { "id": "word_109", "russian": "до скорого", "english": "see you soon" },
+  { "id": "word_110", "russian": "увидимся", "english": "see you" },
+
+  { "id": "word_111", "russian": "как дела?", "english": "how are things?" },
+  { "id": "word_112", "russian": "как у тебя дела?", "english": "how are you? (informal)" },
+  { "id": "word_113", "russian": "как у вас дела?", "english": "how are you? (formal)" },
+
+  { "id": "word_114", "russian": "нормально", "english": "okay / normal" },
+  { "id": "word_115", "russian": "хорошо", "english": "good" },
+  { "id": "word_116", "russian": "плохо", "english": "bad" },
+  { "id": "word_117", "russian": "отлично", "english": "excellent" },
+
+  { "id": "word_118", "russian": "жена", "english": "wife" },
+  { "id": "word_119", "russian": "моя жена", "english": "my wife" },
+  { "id": "word_120", "russian": "твоя жена", "english": "your wife" },
+
+  { "id": "word_121", "russian": "я говорю", "english": "I speak" },
+  { "id": "word_122", "russian": "по-английски", "english": "in English" },
+  { "id": "word_123", "russian": "по-румынски", "english": "in Romanian" },
+  { "id": "word_124", "russian": "по-японски", "english": "in Japanese" },
+  { "id": "word_125", "russian": "по-арабски", "english": "in Arabic" },
+  { "id": "word_126", "russian": "по-венгерски", "english": "in Hungarian" },
+  { "id": "word_127", "russian": "по-португальски", "english": "in Portuguese" },
+  { "id": "word_128", "russian": "по-вьетнамски", "english": "in Vietnamese" },
+
+  { "id": "word_129", "russian": "он венгр", "english": "he is Hungarian" },
+  { "id": "word_130", "russian": "она венгерка", "english": "she is Hungarian" },
+  { "id": "word_131", "russian": "они венгры", "english": "they are Hungarian" },
+
+  { "id": "word_132", "russian": "он англичанин", "english": "he is English" },
+  { "id": "word_133", "russian": "она англичанка", "english": "she is English" },
+  { "id": "word_134", "russian": "он немец", "english": "he is German" },
+  { "id": "word_135", "russian": "они немцы", "english": "they are German" },
+  { "id": "word_136", "russian": "она француженка", "english": "she is French" },
+  { "id": "word_137", "russian": "они французы", "english": "they are French" },
+
+  { "id": "word_138", "russian": "из Казахстана", "english": "from Kazakhstan" },
+  { "id": "word_139", "russian": "из Индии", "english": "from India" },
+  { "id": "word_140", "russian": "из Бразилии", "english": "from Brazil" },
+  { "id": "word_141", "russian": "из Египта", "english": "from Egypt" },
+  { "id": "word_142", "russian": "из Ирана", "english": "from Iran" },
+
+  { "id": "word_143", "russian": "работа", "english": "work" },
+  { "id": "word_144", "russian": "учитель", "english": "teacher" },
+  { "id": "word_145", "russian": "учительница", "english": "female teacher" },
+  { "id": "word_146", "russian": "репетитор", "english": "tutor" },
+  { "id": "word_147", "russian": "врач", "english": "doctor" },
+  { "id": "word_148", "russian": "стоматолог", "english": "dentist" },
+  { "id": "word_149", "russian": "водитель", "english": "driver" },
+  { "id": "word_150", "russian": "полицейский", "english": "police officer" },
+  { "id": "word_151", "russian": "пожарный", "english": "firefighter" },
+
+  { "id": "word_152", "russian": "футболист", "english": "football player" },
+  { "id": "word_153", "russian": "шахматы", "english": "chess" },
+  { "id": "word_154", "russian": "шахматист", "english": "chess player" },
+
+  { "id": "word_155", "russian": "смотреть", "english": "to watch / to look" },
+  { "id": "word_156", "russian": "думать", "english": "to think" },
+  { "id": "word_157", "russian": "понимать", "english": "to understand" },
+  { "id": "word_158", "russian": "помнить", "english": "to remember" },
+  { "id": "word_159", "russian": "знать", "english": "to know" },
+
+  { "id": "word_160", "russian": "одеваться", "english": "to get dressed" },
+
+  { "id": "word_161", "russian": "кот", "english": "cat (male)" },
+  { "id": "word_162", "russian": "кошка", "english": "cat (female)" },
+  { "id": "word_163", "russian": "котёнок", "english": "kitten" },
+
+  { "id": "word_164", "russian": "стул", "english": "chair" },
+  { "id": "word_165", "russian": "стульчик", "english": "small chair" },
+  { "id": "word_166", "russian": "ложка", "english": "spoon" },
+  { "id": "word_167", "russian": "тарелка", "english": "plate" },
+  { "id": "word_168", "russian": "зонтик", "english": "umbrella" },
+  { "id": "word_169", "russian": "я люблю тебя", "english": "I love you"}
+]
