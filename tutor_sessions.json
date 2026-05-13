@@ -1,0 +1,30 @@
+{
+  "sessions": [
+    {
+      "id": "session_001",
+      "date": "2026-05-01",
+      "label": "Session 1 – Greetings & Introductions",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "Привет",
+          "transliteration": "Privet",
+          "english": "Hi / Hey",
+          "partOfSpeech": "interjection",
+          "exampleRu": "Привет, как дела?",
+          "exampleEn": "Hey, how are you?",
+          "notes": "Informal only – don't use with strangers or elders"
+        },
+        {
+          "russian": "Познакомиться",
+          "transliteration": "Poznakomit'sya",
+          "english": "To get acquainted / meet",
+          "partOfSpeech": "verb",
+          "exampleRu": "Рад познакомиться!",
+          "exampleEn": "Nice to meet you!",
+          "notes": "Perfective aspect"
+        }
+      ]
+    },
+  ]
+}
