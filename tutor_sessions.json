@@ -1,239 +1,382 @@
 {
-  "id": "session_001",
-  "date": "2026-05-13",
-  "label": "Session 1 – Home, Rooms & Furniture",
-  "tutor": "Maxim",
-  "words": [
+  "sessions": [
     {
-      "russian": "ме́бель",
-      "transliteration": "mebel'",
-      "english": "furniture",
-      "partOfSpeech": "noun",
-      "notes": "feminine noun"
+      "id": "session_001",
+      "date": "2026-05-13",
+      "label": "Session 1 – Home, Rooms & Furniture",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "ме́бель",
+          "transliteration": "mebel'",
+          "english": "furniture",
+          "partOfSpeech": "noun",
+          "notes": "feminine noun"
+        },
+        {
+          "russian": "кре́сло",
+          "transliteration": "kreslo",
+          "english": "armchair",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "стол",
+          "transliteration": "stol",
+          "english": "table / desk",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ками́н",
+          "transliteration": "kamin",
+          "english": "fireplace",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "пиани́но",
+          "transliteration": "pianino",
+          "english": "piano",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "лю́стра",
+          "transliteration": "lyustra",
+          "english": "chandelier",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "карти́на",
+          "transliteration": "kartina",
+          "english": "painting / picture",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "стул",
+          "transliteration": "stul",
+          "english": "chair",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "плита́",
+          "transliteration": "plita",
+          "english": "stove / cooker",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "холоди́льник",
+          "transliteration": "kholodilnik",
+          "english": "refrigerator / fridge",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "пол",
+          "transliteration": "pol",
+          "english": "floor",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "комо́д",
+          "transliteration": "komod",
+          "english": "chest of drawers / dresser",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "расте́ние",
+          "transliteration": "rasteniye",
+          "english": "plant",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "дива́н",
+          "transliteration": "divan",
+          "english": "sofa / couch",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ва́нна",
+          "transliteration": "vanna",
+          "english": "bathtub",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "зе́ркало",
+          "transliteration": "zerkalo",
+          "english": "mirror",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "душ",
+          "transliteration": "dush",
+          "english": "shower",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "крова́ть",
+          "transliteration": "krovat'",
+          "english": "bed",
+          "partOfSpeech": "noun",
+          "notes": "feminine noun"
+        },
+        {
+          "russian": "по́лка",
+          "transliteration": "polka",
+          "english": "shelf",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "шкаф",
+          "transliteration": "shkaf",
+          "english": "wardrobe / cupboard",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ковёр",
+          "transliteration": "kovyor",
+          "english": "carpet / rug",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "батаре́я",
+          "transliteration": "batareya",
+          "english": "radiator / heater",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "стена́",
+          "transliteration": "stena",
+          "english": "wall",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ле́стница",
+          "transliteration": "lestnitsa",
+          "english": "stairs / staircase",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ко́мнаты",
+          "transliteration": "komnaty",
+          "english": "rooms",
+          "partOfSpeech": "noun",
+          "notes": "plural of комната (komnata)"
+        },
+        {
+          "russian": "спа́льня",
+          "transliteration": "spalnya",
+          "english": "bedroom",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "балко́н",
+          "transliteration": "balkon",
+          "english": "balcony",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "гости́ная",
+          "transliteration": "gostinaya",
+          "english": "living room",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "гара́ж",
+          "transliteration": "garazh",
+          "english": "garage",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ку́хня",
+          "transliteration": "kukhnya",
+          "english": "kitchen",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "сад",
+          "transliteration": "sad",
+          "english": "garden",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "столо́вая",
+          "transliteration": "stolovaya",
+          "english": "dining room",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "бассе́йн",
+          "transliteration": "basseyn",
+          "english": "swimming pool",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "де́тская",
+          "transliteration": "detskaya",
+          "english": "children's room / nursery",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "кабине́т",
+          "transliteration": "kabinet",
+          "english": "study / home office",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ва́нная",
+          "transliteration": "vannaya",
+          "english": "bathroom",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "туале́т",
+          "transliteration": "tualet",
+          "english": "toilet / WC",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "коридо́р",
+          "transliteration": "koridor",
+          "english": "corridor / hallway",
+          "partOfSpeech": "noun"
+        }
+      ]
     },
     {
-      "russian": "кре́сло",
-      "transliteration": "kreslo",
-      "english": "armchair",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "стол",
-      "transliteration": "stol",
-      "english": "table / desk",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ками́н",
-      "transliteration": "kamin",
-      "english": "fireplace",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "пиани́но",
-      "transliteration": "pianino",
-      "english": "piano",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "лю́стра",
-      "transliteration": "lyustra",
-      "english": "chandelier",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "карти́на",
-      "transliteration": "kartina",
-      "english": "painting / picture",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "стул",
-      "transliteration": "stul",
-      "english": "chair",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "плита́",
-      "transliteration": "plita",
-      "english": "stove / cooker",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "холоди́льник",
-      "transliteration": "kholodilnik",
-      "english": "refrigerator / fridge",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "пол",
-      "transliteration": "pol",
-      "english": "floor",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "комо́д",
-      "transliteration": "komod",
-      "english": "chest of drawers / dresser",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "расте́ние",
-      "transliteration": "rasteniye",
-      "english": "plant",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "дива́н",
-      "transliteration": "divan",
-      "english": "sofa / couch",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ва́нна",
-      "transliteration": "vanna",
-      "english": "bathtub",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "зе́ркало",
-      "transliteration": "zerkalo",
-      "english": "mirror",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "душ",
-      "transliteration": "dush",
-      "english": "shower",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "крова́ть",
-      "transliteration": "krovat'",
-      "english": "bed",
-      "partOfSpeech": "noun",
-      "notes": "feminine noun"
-    },
-    {
-      "russian": "по́лка",
-      "transliteration": "polka",
-      "english": "shelf",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "шкаф",
-      "transliteration": "shkaf",
-      "english": "wardrobe / cupboard",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ковёр",
-      "transliteration": "kovyor",
-      "english": "carpet / rug",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "батаре́я",
-      "transliteration": "batareya",
-      "english": "radiator / heater",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "стена́",
-      "transliteration": "stena",
-      "english": "wall",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ле́стница",
-      "transliteration": "lestnitsa",
-      "english": "stairs / staircase",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ко́мнаты",
-      "transliteration": "komnaty",
-      "english": "rooms",
-      "partOfSpeech": "noun",
-      "notes": "plural of комната (komnata)"
-    },
-    {
-      "russian": "спа́льня",
-      "transliteration": "spalnya",
-      "english": "bedroom",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "балко́н",
-      "transliteration": "balkon",
-      "english": "balcony",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "гости́ная",
-      "transliteration": "gostinaya",
-      "english": "living room",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "гара́ж",
-      "transliteration": "garazh",
-      "english": "garage",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ку́хня",
-      "transliteration": "kukhnya",
-      "english": "kitchen",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "сад",
-      "transliteration": "sad",
-      "english": "garden",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "столо́вая",
-      "transliteration": "stolovaya",
-      "english": "dining room",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "бассе́йн",
-      "transliteration": "basseyn",
-      "english": "swimming pool",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "де́тская",
-      "transliteration": "detskaya",
-      "english": "children's room / nursery",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "кабине́т",
-      "transliteration": "kabinet",
-      "english": "study / home office",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "ва́нная",
-      "transliteration": "vannaya",
-      "english": "bathroom",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "туале́т",
-      "transliteration": "tualet",
-      "english": "toilet / WC",
-      "partOfSpeech": "noun"
-    },
-    {
-      "russian": "коридо́р",
-      "transliteration": "koridor",
-      "english": "corridor / hallway",
-      "partOfSpeech": "noun"
+      "id": "session_002",
+      "date": "2026-05-14",
+      "label": "Session 2 – Apartment Tour",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "гуля́ть",
+          "transliteration": "gulyat'",
+          "english": "to walk / to stroll",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "игра́ть",
+          "transliteration": "igrat'",
+          "english": "to play",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "изуча́ть",
+          "transliteration": "izuchat'",
+          "english": "to study / to learn",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "отдыха́ть",
+          "transliteration": "otdykhat'",
+          "english": "to rest / to relax",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "слу́шать",
+          "transliteration": "slushat'",
+          "english": "to listen",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "чита́ть",
+          "transliteration": "chitat'",
+          "english": "to read",
+          "partOfSpeech": "verb",
+          "notes": "е-conjugation verb"
+        },
+        {
+          "russian": "ду́ховка",
+          "transliteration": "dukhovka",
+          "english": "oven",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "никогда́",
+          "transliteration": "nikogda",
+          "english": "never",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "ре́дко",
+          "transliteration": "redko",
+          "english": "rarely",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "иногда́",
+          "transliteration": "inogda",
+          "english": "sometimes",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "обы́чно",
+          "transliteration": "obychno",
+          "english": "usually",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "ча́сто",
+          "transliteration": "chasto",
+          "english": "often",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "всегда́",
+          "transliteration": "vsegda",
+          "english": "always",
+          "partOfSpeech": "adverb",
+          "notes": "frequency adverb"
+        },
+        {
+          "russian": "принима́ть душ",
+          "transliteration": "prinimat' dush",
+          "english": "to take a shower",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "стира́лка",
+          "transliteration": "stiralka",
+          "english": "washing machine (colloquial)",
+          "partOfSpeech": "noun",
+          "notes": "short form of стиральная машина"
+        },
+        {
+          "russian": "посудомо́йка",
+          "transliteration": "posudomoyka",
+          "english": "dishwasher (colloquial)",
+          "partOfSpeech": "noun",
+          "notes": "short form of посудомоечная машина"
+        },
+        {
+          "russian": "суши́лка",
+          "transliteration": "sushilka",
+          "english": "dryer (colloquial)",
+          "partOfSpeech": "noun",
+          "notes": "short form of сушильная машина"
+        },
+        {
+          "russian": "холодо́с",
+          "transliteration": "kholdos",
+          "english": "fridge (slang)",
+          "partOfSpeech": "noun",
+          "notes": "slang for холодильник"
+        },
+        {
+          "russian": "цветы́",
+          "transliteration": "tsvety",
+          "english": "flowers",
+          "partOfSpeech": "noun",
+          "notes": "plural of цветок (tsvetok)"
+        }
+      ]
     }
   ]
 }
