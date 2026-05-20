@@ -377,6 +377,116 @@
           "notes": "plural of цветок (tsvetok)"
         }
       ]
+    },
+    {
+      "id": "session_003",
+      "date": "2026-05-19",
+      "label": "Session 3 – Favorite Items and Objects",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "сидеть",
+          "transliteration": "sidet'",
+          "english": "to sit",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "стоять",
+          "transliteration": "stoyat'",
+          "english": "to stand",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "лежать",
+          "transliteration": "lezhat'",
+          "english": "to lie down",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "висеть",
+          "transliteration": "viset'",
+          "english": "to hang",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "страна",
+          "transliteration": "strana",
+          "english": "country",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "язык",
+          "transliteration": "yazyk",
+          "english": "language / tongue",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "медитировать",
+          "transliteration": "meditirovat'",
+          "english": "to meditate",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "ходить",
+          "transliteration": "khodit'",
+          "english": "to walk / to go",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "нелюбимый",
+          "transliteration": "nelyubimyy",
+          "english": "unloved / least favorite",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "название",
+          "transliteration": "nazvaniye",
+          "english": "title / name",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "вкусный",
+          "transliteration": "vkusnyy",
+          "english": "tasty / delicious",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "томатный",
+          "transliteration": "tomatnyy",
+          "english": "tomato (adj.)",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "яблочный",
+          "transliteration": "yablochnyy",
+          "english": "apple (adj.)",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "апельсиновый",
+          "transliteration": "apelsinovyy",
+          "english": "orange (adj.)",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "жить",
+          "transliteration": "zhit'",
+          "english": "to live",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "возможно",
+          "transliteration": "vozmozhno",
+          "english": "possibly / maybe",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "разговаривать",
+          "transliteration": "razgovаrivat'",
+          "english": "to talk / to converse",
+          "partOfSpeech": "verb"
+        }
+      ]
     }
   ]
 }
