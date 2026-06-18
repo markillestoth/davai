@@ -487,6 +487,354 @@
           "partOfSpeech": "verb"
         }
       ]
+    },
+    {
+      "id": "session_004",
+      "date": "2026-06-17",
+      "label": "Session 4 – Adjectives, Opposites & Office Vocabulary",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "кабинет",
+          "transliteration": "kabinet",
+          "english": "study / office",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "начальник",
+          "transliteration": "nachal'nik",
+          "english": "boss / superior",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "кресло",
+          "transliteration": "kreslo",
+          "english": "armchair",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "доска",
+          "transliteration": "doska",
+          "english": "board (blackboard / whiteboard)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "комод",
+          "transliteration": "komod",
+          "english": "chest of drawers",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ничего",
+          "transliteration": "nichego",
+          "english": "nothing",
+          "partOfSpeech": "pronoun"
+        },
+        {
+          "russian": "пустой",
+          "transliteration": "pustoy",
+          "english": "empty",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "полный",
+          "transliteration": "polnyy",
+          "english": "full",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "вообще",
+          "transliteration": "voobshche",
+          "english": "in general / at all",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "ещё",
+          "transliteration": "yeshchyo",
+          "english": "still / yet / more",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "участвовать в собраниях",
+          "transliteration": "uchastvovat' v sobraniyakh",
+          "english": "to participate in meetings",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "собрание",
+          "transliteration": "sobraniye",
+          "english": "meeting",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "исследовать рынок",
+          "transliteration": "issledovat' rynok",
+          "english": "to research the market",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "решение",
+          "transliteration": "resheniye",
+          "english": "decision / solution",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "уродливый",
+          "transliteration": "urodlivyy",
+          "english": "ugly",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "мне холодно",
+          "transliteration": "mne kholodno",
+          "english": "I'm cold",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "мне жарко",
+          "transliteration": "mne zharko",
+          "english": "I'm hot",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "на улице жарко",
+          "transliteration": "na ulitse zharko",
+          "english": "it's hot outside",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "трудный",
+          "transliteration": "trudnyy",
+          "english": "difficult",
+          "partOfSpeech": "adjective",
+          "notes": "near-synonym with тяжёлый in the sense of 'hard/difficult'"
+        },
+        {
+          "russian": "удобный",
+          "transliteration": "udobnyy",
+          "english": "comfortable",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: неудобный"
+        },
+        {
+          "russian": "неудобный",
+          "transliteration": "neudobnyy",
+          "english": "uncomfortable",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: удобный"
+        },
+        {
+          "russian": "новый",
+          "transliteration": "novyy",
+          "english": "new",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: старый"
+        },
+        {
+          "russian": "старый",
+          "transliteration": "staryy",
+          "english": "old",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: новый"
+        },
+        {
+          "russian": "красивый",
+          "transliteration": "krasivyy",
+          "english": "beautiful",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: некрасивый"
+        },
+        {
+          "russian": "некрасивый",
+          "transliteration": "nekrasivyy",
+          "english": "ugly / not beautiful",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: красивый"
+        },
+        {
+          "russian": "тёплый",
+          "transliteration": "tyoplyy",
+          "english": "warm",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: холодный"
+        },
+        {
+          "russian": "холодный",
+          "transliteration": "kholodnyy",
+          "english": "cold",
+          "partOfSpeech": "adjective",
+          "notes": "antonym of both тёплый and горячий"
+        },
+        {
+          "russian": "добрый",
+          "transliteration": "dobryy",
+          "english": "kind",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: злой"
+        },
+        {
+          "russian": "злой",
+          "transliteration": "zloy",
+          "english": "mean / evil",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: добрый"
+        },
+        {
+          "russian": "длинный",
+          "transliteration": "dlinnyy",
+          "english": "long",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: короткий"
+        },
+        {
+          "russian": "короткий",
+          "transliteration": "korotkiy",
+          "english": "short",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: длинный"
+        },
+        {
+          "russian": "интересный",
+          "transliteration": "interesnyy",
+          "english": "interesting",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: скучный"
+        },
+        {
+          "russian": "скучный",
+          "transliteration": "skuchnyy",
+          "english": "boring",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: интересный"
+        },
+        {
+          "russian": "высокий",
+          "transliteration": "vysokiy",
+          "english": "tall / high",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: низкий"
+        },
+        {
+          "russian": "низкий",
+          "transliteration": "nizkiy",
+          "english": "short / low",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: высокий"
+        },
+        {
+          "russian": "быстрый",
+          "transliteration": "bystryy",
+          "english": "fast",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: медленный"
+        },
+        {
+          "russian": "медленный",
+          "transliteration": "medlennyy",
+          "english": "slow",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: быстрый"
+        },
+        {
+          "russian": "дешёвый",
+          "transliteration": "deshyovyy",
+          "english": "cheap",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: дорогой"
+        },
+        {
+          "russian": "дорогой",
+          "transliteration": "dorogoy",
+          "english": "expensive",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: дешёвый"
+        },
+        {
+          "russian": "громкий",
+          "transliteration": "gromkiy",
+          "english": "loud",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: тихий"
+        },
+        {
+          "russian": "тихий",
+          "transliteration": "tikhiy",
+          "english": "quiet",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: громкий"
+        },
+        {
+          "russian": "горячий",
+          "transliteration": "goryachiy",
+          "english": "hot",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: холодный"
+        },
+        {
+          "russian": "большой",
+          "transliteration": "bol'shoy",
+          "english": "big",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: маленький"
+        },
+        {
+          "russian": "маленький",
+          "transliteration": "malen'kiy",
+          "english": "small",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: большой"
+        },
+        {
+          "russian": "тяжёлый",
+          "transliteration": "tyazhyolyy",
+          "english": "heavy",
+          "partOfSpeech": "adjective",
+          "notes": "antonym: лёгкий; near-synonym with трудный in the sense of 'hard/difficult'"
+        },
+        {
+          "russian": "лёгкий",
+          "transliteration": "lyogkiy",
+          "english": "light / easy",
+          "partOfSpeech": "adjective",
+          "notes": "antonym of both тяжёлый and трудный"
+        },
+        {
+          "russian": "шумный",
+          "transliteration": "shumnyy",
+          "english": "noisy",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "прекрасный",
+          "transliteration": "prekrasnyy",
+          "english": "wonderful / beautiful",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "элегантный",
+          "transliteration": "elegantnyy",
+          "english": "elegant",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "синий",
+          "transliteration": "siniy",
+          "english": "blue",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "русский",
+          "transliteration": "russkiy",
+          "english": "Russian",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "идеальный",
+          "transliteration": "ideal'nyy",
+          "english": "ideal / perfect",
+          "partOfSpeech": "adjective"
+        }
+      ]
     }
   ]
 }
