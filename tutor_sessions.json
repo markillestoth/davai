@@ -835,6 +835,636 @@
           "partOfSpeech": "adjective"
         }
       ]
+    },
+    {
+      "id": "session_005",
+      "date": "2026-06-20",
+      "label": "Session 5 – Colors, Food & Everyday Vocabulary",
+      "tutor": "Maxim",
+      "words": [
+        {
+          "russian": "красный",
+          "transliteration": "krasnyy",
+          "english": "red",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "голубой",
+          "transliteration": "goluboy",
+          "english": "light blue",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "зелёный",
+          "transliteration": "zelyonyy",
+          "english": "green",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "жёлтый",
+          "transliteration": "zholtyy",
+          "english": "yellow",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "чёрный",
+          "transliteration": "chornyy",
+          "english": "black",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "белый",
+          "transliteration": "belyy",
+          "english": "white",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "коричневый",
+          "transliteration": "korichnevyy",
+          "english": "brown",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "розовый",
+          "transliteration": "rozovyy",
+          "english": "pink",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "фиолетовый",
+          "transliteration": "fioletovyy",
+          "english": "purple / violet",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "серый",
+          "transliteration": "seryy",
+          "english": "grey",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "бежевый",
+          "transliteration": "bezhevyy",
+          "english": "beige",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "бордовый",
+          "transliteration": "bordovyy",
+          "english": "burgundy / maroon",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "серебряный",
+          "transliteration": "serebryanyy",
+          "english": "silver",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "золотой",
+          "transliteration": "zolotoy",
+          "english": "golden / gold",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "бронзовый",
+          "transliteration": "bronzovyy",
+          "english": "bronze",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "russian": "мясо",
+          "transliteration": "myaso",
+          "english": "meat",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "курица",
+          "transliteration": "kuritsa",
+          "english": "chicken",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "рыба",
+          "transliteration": "ryba",
+          "english": "fish",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "рис",
+          "transliteration": "ris",
+          "english": "rice",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "паста",
+          "transliteration": "pasta",
+          "english": "pasta",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "яйцо",
+          "transliteration": "yaytso",
+          "english": "egg",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "хлеб",
+          "transliteration": "khleb",
+          "english": "bread",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "масло",
+          "transliteration": "maslo",
+          "english": "butter / oil",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "круассан",
+          "transliteration": "kruassan",
+          "english": "croissant",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "сыр",
+          "transliteration": "syr",
+          "english": "cheese",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "мёд",
+          "transliteration": "myod",
+          "english": "honey",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "хлопья",
+          "transliteration": "khlopya",
+          "english": "cereal / flakes",
+          "partOfSpeech": "noun",
+          "notes": "plural form"
+        },
+        {
+          "russian": "сахар",
+          "transliteration": "sakhar",
+          "english": "sugar",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "соль",
+          "transliteration": "sol'",
+          "english": "salt",
+          "partOfSpeech": "noun",
+          "notes": "feminine noun"
+        },
+        {
+          "russian": "бутерброд",
+          "transliteration": "buterbrод",
+          "english": "sandwich / open-faced sandwich",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ветчина",
+          "transliteration": "vetchina",
+          "english": "ham",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "йогурт",
+          "transliteration": "yogurt",
+          "english": "yogurt",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "колбаса",
+          "transliteration": "kolbasa",
+          "english": "sausage / salami",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "сосиска",
+          "transliteration": "sosiska",
+          "english": "frankfurter / small sausage",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "каша",
+          "transliteration": "kasha",
+          "english": "porridge / kasha",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "блины",
+          "transliteration": "bliny",
+          "english": "Russian pancakes",
+          "partOfSpeech": "noun",
+          "notes": "plural of блин"
+        },
+        {
+          "russian": "варенье",
+          "transliteration": "varenye",
+          "english": "jam / preserves",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "морепродукты",
+          "transliteration": "moreproduty",
+          "english": "seafood",
+          "partOfSpeech": "noun",
+          "notes": "plural form"
+        },
+        {
+          "russian": "яблоко",
+          "transliteration": "yabloko",
+          "english": "apple",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "картофель",
+          "transliteration": "kartofel'",
+          "english": "potato",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "картошка",
+          "transliteration": "kartoshka",
+          "english": "potato (colloquial)",
+          "partOfSpeech": "noun",
+          "notes": "colloquial form of картофель"
+        },
+        {
+          "russian": "виноград",
+          "transliteration": "vinograd",
+          "english": "grapes",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "киви",
+          "transliteration": "kivi",
+          "english": "kiwi",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "помидор",
+          "transliteration": "pomidor",
+          "english": "tomato",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "гриб",
+          "transliteration": "grib",
+          "english": "mushroom",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "апельсин",
+          "transliteration": "apelsin",
+          "english": "orange (fruit)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "огурец",
+          "transliteration": "ogurets",
+          "english": "cucumber",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "лук",
+          "transliteration": "luk",
+          "english": "onion",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "морковь",
+          "transliteration": "morkov'",
+          "english": "carrot",
+          "partOfSpeech": "noun",
+          "notes": "feminine noun"
+        },
+        {
+          "russian": "капуста",
+          "transliteration": "kapusta",
+          "english": "cabbage",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "свёкла",
+          "transliteration": "svyokla",
+          "english": "beetroot",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "редис",
+          "transliteration": "redis",
+          "english": "radish",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "салат",
+          "transliteration": "salat",
+          "english": "salad / lettuce",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "орехи",
+          "transliteration": "orekhi",
+          "english": "nuts",
+          "partOfSpeech": "noun",
+          "notes": "plural of орех"
+        },
+        {
+          "russian": "шоколад",
+          "transliteration": "shokolad",
+          "english": "chocolate",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "мороженое",
+          "transliteration": "morozhenoye",
+          "english": "ice cream",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "пирожок",
+          "transliteration": "pirozhok",
+          "english": "small pie / pastry",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "торт",
+          "transliteration": "tort",
+          "english": "cake",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "сок",
+          "transliteration": "sok",
+          "english": "juice",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "молоко",
+          "transliteration": "moloko",
+          "english": "milk",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "кефир",
+          "transliteration": "kefir",
+          "english": "kefir",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "горячий шоколад",
+          "transliteration": "goryachiy shokolad",
+          "english": "hot chocolate",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "квас",
+          "transliteration": "kvas",
+          "english": "kvass (fermented bread drink)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "морс",
+          "transliteration": "mors",
+          "english": "fruit drink / berry juice",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "пиво",
+          "transliteration": "pivo",
+          "english": "beer",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "винегрет",
+          "transliteration": "vinegret",
+          "english": "vinegret (Russian beet salad)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "блюдо",
+          "transliteration": "blyudo",
+          "english": "dish / course",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "морозильник",
+          "transliteration": "morozil'nik",
+          "english": "freezer",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "на диете",
+          "transliteration": "na diyete",
+          "english": "on a diet",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "russian": "бежать",
+          "transliteration": "bezhat'",
+          "english": "to run",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "летать",
+          "transliteration": "letat'",
+          "english": "to fly (habitual / multidirectional)",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "водить",
+          "transliteration": "vodit'",
+          "english": "to drive",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "варить",
+          "transliteration": "varit'",
+          "english": "to cook / to boil",
+          "partOfSpeech": "verb",
+          "notes": "варит = 3rd person singular: he/she cooks"
+        },
+        {
+          "russian": "ужасаться",
+          "transliteration": "uzhasatsya",
+          "english": "to be horrified",
+          "partOfSpeech": "verb"
+        },
+        {
+          "russian": "ужас",
+          "transliteration": "uzhas",
+          "english": "horror",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "ужастик",
+          "transliteration": "uzhastik",
+          "english": "horror movie (colloquial)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "самолёт",
+          "transliteration": "samolyot",
+          "english": "airplane",
+          "partOfSpeech": "noun",
+          "notes": "compound: сам (self) + лёт (flight)"
+        },
+        {
+          "russian": "сам",
+          "transliteration": "sam",
+          "english": "himself / oneself / by oneself",
+          "partOfSpeech": "pronoun"
+        },
+        {
+          "russian": "двор",
+          "transliteration": "dvor",
+          "english": "yard / courtyard",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "трава",
+          "transliteration": "trava",
+          "english": "grass",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "дрова",
+          "transliteration": "drova",
+          "english": "firewood",
+          "partOfSpeech": "noun",
+          "notes": "plural form; tongue twister: во дворе трава, на траве дрова, раз дрова, два дрова, три дрова"
+        },
+        {
+          "russian": "грипп",
+          "transliteration": "gripp",
+          "english": "flu / influenza",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "королева",
+          "transliteration": "koroleva",
+          "english": "queen",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "король",
+          "transliteration": "korol'",
+          "english": "king",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "игрушка",
+          "transliteration": "igrushka",
+          "english": "toy",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "кукла",
+          "transliteration": "kukla",
+          "english": "doll",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "порядок",
+          "transliteration": "poryadok",
+          "english": "order / everything is fine",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "мюзиклы",
+          "transliteration": "myuzikly",
+          "english": "musicals",
+          "partOfSpeech": "noun",
+          "notes": "plural of мюзикл"
+        },
+        {
+          "russian": "пара",
+          "transliteration": "para",
+          "english": "a pair / a couple",
+          "partOfSpeech": "noun"
+        },
+        {
+          "russian": "соседи",
+          "transliteration": "sosedi",
+          "english": "neighbors",
+          "partOfSpeech": "noun",
+          "notes": "plural of сосед; новые соседи = new neighbors"
+        },
+        {
+          "russian": "которая",
+          "transliteration": "kotoraya",
+          "english": "which / who (feminine singular)",
+          "partOfSpeech": "pronoun",
+          "notes": "relative pronoun; которые живут = who live (plural)"
+        },
+        {
+          "russian": "сверху",
+          "transliteration": "sverkhu",
+          "english": "from above / at the top",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "снизу",
+          "transliteration": "snizu",
+          "english": "from below / at the bottom",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "слева",
+          "transliteration": "sleva",
+          "english": "on the left / to the left",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "справа",
+          "transliteration": "sprava",
+          "english": "on the right / to the right",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "что-то",
+          "transliteration": "chto-to",
+          "english": "something",
+          "partOfSpeech": "pronoun"
+        },
+        {
+          "russian": "например",
+          "transliteration": "naprimer",
+          "english": "for example",
+          "partOfSpeech": "adverb"
+        },
+        {
+          "russian": "после",
+          "transliteration": "posle",
+          "english": "after",
+          "partOfSpeech": "preposition"
+        },
+        {
+          "russian": "будь здоров",
+          "transliteration": "bud' zdorov",
+          "english": "bless you / be healthy (after sneezing)",
+          "partOfSpeech": "phrase",
+          "notes": "informal; будьте здоровы is the formal/plural form"
+        },
+        {
+          "russian": "Это синяя машина",
+          "transliteration": "Eto sinyaya mashina",
+          "english": "This is a blue car",
+          "partOfSpeech": "phrase",
+          "notes": "attributive use: adjective modifies the noun directly"
+        },
+        {
+          "russian": "Эта машина синяя",
+          "transliteration": "Eta mashina sinyaya",
+          "english": "This car is blue",
+          "partOfSpeech": "phrase",
+          "notes": "predicative use: adjective acts as the predicate after the noun"
+        }
+      ]
     }
   ]
 }
